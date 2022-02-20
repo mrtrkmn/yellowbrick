@@ -1,6 +1,6 @@
 # Library Dependencies
 matplotlib>=3.3
-scipy>=1.6.0
+scipy>=1.8.0
 scikit-learn>=1.0.0
 numpy>=1.16.0
 cycler>=0.10.0
@@ -9,4 +9,4 @@ cycler>=0.10.0
 Sphinx>=3.4
 sphinx-rtd-theme>=0.5.1
 numpydoc>=1.1
-pandas>=1.0.4
+pandas>=1.4.1
